@@ -11,7 +11,7 @@ public class App {
         }
         border+= "+";
         System.out.println(border);
-        System.out.println("| " + message + " |");
+        System.out.println("|" + message + "|");
         System.out.println(border);
     }
 }
